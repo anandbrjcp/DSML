@@ -20,4 +20,11 @@ A way to manually compute the mean is given by:
 - git commit -a -m "new changes"  - Stagining and commit
 - git rm --cached .csv - make files not tracking of changes 
 - git rm -r --cached - recurvise tracking of folder
-- 
+- touch .gitignore
+- nano .gitignore
+- more .gitignore
+- git log
+- git lot -2
+- git log --pretty=oneline
+
+
