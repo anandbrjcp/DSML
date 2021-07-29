@@ -32,7 +32,9 @@ A way to manually compute the mean is given by:
 - git restore --staged test1.txt 
 - git remote add origin https://github.com/anandbrjcp/DSML.git
 - git push origin -u master
-- 
+- git remote -v
+- git remote set-url origin git@github.com:anandbrjcp/DSML.git
+
 
 
 
