@@ -26,5 +26,13 @@ A way to manually compute the mean is given by:
 - git log
 - git lot -2
 - git log --pretty=oneline
+- git config --global core.editor "vi"
+- git commit --amend --no-edit
+- git commit --amend   
+- git restore --staged test1.txt 
+- git remote add origin https://github.com/anandbrjcp/DSML.git
+- git push origin -u master
+- 
+
 
 
