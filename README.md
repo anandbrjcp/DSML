@@ -34,6 +34,10 @@ A way to manually compute the mean is given by:
 - git push origin -u master
 - git remote -v
 - git remote set-url origin git@github.com:anandbrjcp/DSML.git
+- git branch [branch_name] - Create a new Branch
+- git branch 
+- git branch -a - local and remote branch 
+- git checkout -b STAGING
 
 
 
